@@ -319,6 +319,11 @@ padding-top:40px;
 	border-style: none;
 	border-color: white;
 }
+.subscribe_input_data
+{	
+	position: relative; 
+    display: inline-block;
+}
 .subscribe_input_data:after
 {
 	content:" ";
@@ -332,8 +337,8 @@ padding-top:40px;
 	padding-bottom: 19px;
 	background-image:url(checked.png);
 	background-repeat:no-repeat;
-	margin-top: -58px;
-	right: 574px;
+	margin-top: -59px;
+	left: 212px;
 	border-top-right-radius: 2px;
 	border-bottom-right-radius: 2px;
 	background-position: 56% 55%;
